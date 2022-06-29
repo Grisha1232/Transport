@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a09a7A0cKLZ8pI+le2SkV7+4K3WPzm6qUKMfM96djHghLU+cte36/6NtJ6P3lpvD8wP1FFg7hBSlK1if3pvEpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\selez\\Desktop\\ВШЭ\\PeerGrade\\Транспорт\\Transport\\mainProgramm\\mainProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\selez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
